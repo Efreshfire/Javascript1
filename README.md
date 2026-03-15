@@ -1,2 +1,2 @@
-<h1> JavaScript Class <</h1>
+<h1> JavaScript Class </h1>
 
